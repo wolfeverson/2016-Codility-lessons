@@ -1,0 +1,6 @@
+c:\users\noyoki\documents\visual studio 2015\Projects\Codility_\Codility_\bin\Debug\Codility_.exe.config
+c:\users\noyoki\documents\visual studio 2015\Projects\Codility_\Codility_\bin\Debug\Codility_.exe
+c:\users\noyoki\documents\visual studio 2015\Projects\Codility_\Codility_\bin\Debug\Codility_.pdb
+c:\users\noyoki\documents\visual studio 2015\Projects\Codility_\Codility_\obj\Debug\Codility_.csprojResolveAssemblyReference.cache
+c:\users\noyoki\documents\visual studio 2015\Projects\Codility_\Codility_\obj\Debug\Codility_.exe
+c:\users\noyoki\documents\visual studio 2015\Projects\Codility_\Codility_\obj\Debug\Codility_.pdb
